@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 142.875 142.875"
+   height="540"
+   width="540">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-154.12501)"
+     id="layer1">
+    <path
+       id="path826"
+       d="m 71.530082,223.37372 h 23.896821 c -5.840969,4.47191 -6.459583,7.93878 -3.158726,10.81147 -8.2882,6.59006 -14.727377,7.10255 -20.467945,7.12168 -9.87581,0.0329 -16.831046,-5.36429 -21.795276,-11.02583 4.073222,0.76587 7.236721,-0.0199 9.9042,-1.65174 -5.375622,-0.87511 -10.879629,0.0748 -15.582602,-10.36099 l -2.773175,-2.70285 3.829615,-10.36098 h 3.433461 l 2.509063,-4.05429 -1.05645,-2.70891 8.985118,-6.90732 3.031972,2.07341 4.201765,-1.52892 0.948421,-3.54766 c 3.829625,0.58536 7.65925,-0.19296 11.488865,0.005 l 1.05645,3.75398 4.495217,1.35143 2.360499,-2.35228 9.25512,6.7069 c -0.473074,1.31318 -1.31072,2.76453 -0.929695,3.75397 0.341092,1.38491 1.935451,2.30845 2.646421,3.4597 l 3.037289,-0.1562 c -1.249751,0.6426 -2.420761,1.38753 -3.961678,1.65175 -5.233026,-0.0927 -12.355523,-3.61028 -18.884011,-4.80509 -7.962692,-0.59303 -15.260444,3.11444 -16.506991,10.21082 -0.59805,7.56753 3.521726,11.75059 7.131015,14.11494 3.961686,2.45568 7.923362,2.01593 11.885038,0.90096 z"
+       style="fill:#f89d08;fill-opacity:1;stroke:none;stroke-width:0.27880323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path828"
+       d="m 101.63884,224.575 1.84878,0.90096 -3.3014,11.11177 -3.499479,-0.30033 -2.773176,4.0543 1.188511,3.07825 -8.979812,6.53193 -2.509062,-2.32747 -4.754014,1.65176 -0.726306,3.45365 -11.356814,-0.22523 -0.726306,-3.22842 -4.35785,-1.50159 -2.839206,2.32746 -8.979802,-6.83224 1.386583,-3.07826 -2.707145,-3.90414 -3.499481,0.0751 -3.565513,-10.81144 3.037288,-2.02715 -0.198082,-2.1773 1.320552,1.95206 c 1.983309,6.32111 4.435304,10.77311 7.258313,13.74543 0.315923,0.33263 0.638724,0.64357 0.961564,0.94284 15.359213,14.23742 41.83587,8.60899 47.771857,-13.4119 z"
+       style="fill:#7d7e80;fill-opacity:1;stroke:none;stroke-width:0.27880323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="scale(0.96586693,1.0353393)"
+       id="text832"
+       y="264.96295"
+       x="30.444981"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.43718433px;line-height:1.25;font-family:'Adobe Gothic Std';-inkscape-font-specification:'Adobe Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7d7e80;fill-opacity:1;stroke:none;stroke-width:0.27069721"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.43718433px;font-family:'Adobe Gothic Std';-inkscape-font-specification:'Adobe Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#7d7e80;fill-opacity:1;stroke-width:0.27069721"
+         y="264.96295"
+         x="30.444981"
+         id="tspan830">GET SET FOSS!</tspan></text>
+  </g>
+</svg>
