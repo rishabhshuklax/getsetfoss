@@ -1958,9 +1958,15 @@ textarea {
   font-size: 25px;
 }
 #projects {
-  background: #6d167434;
-  padding: 130px 0px;
-  color: black !important;
+  background: url("/assets/img/Purple\ and\ Peach\ Baker\ Business\ Presentation.png");
+  background-position: center;
+  padding: 260px 0px;
+  color: white !important;
+}
+#projects h1,
+#projects h2,
+#projects .btn {
+  color: white !important;
 }
 #about ul,
 #about li {
