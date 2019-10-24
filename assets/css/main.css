@@ -1958,14 +1958,15 @@ textarea {
   font-size: 25px;
 }
 #projects {
-  background: url("/assets/img/Digital\ Advertising\ Approach\ \(1\).png");
-  background-position: bottom;
-  padding: 200px 0px;
+  background: url("/assets/img/Purple\ and\ Peach\ Baker\ Business\ Presentation.png");
+  background-position: cover;
+  padding: 250px 0px;
+  color: white !important;
 }
 #projects h1,
 #projects h2,
 #projects .btn {
-  /* color: white !important; */
+  color: white !important;
 }
 #about ul,
 #about li {
