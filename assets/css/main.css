@@ -1932,7 +1932,7 @@ textarea {
 /* Misc */
 #rules .rules-list {
   /* width: 500px; */
-  margin: 10px;  
+  margin: 10px;
 }
 
 #rules ol {
@@ -1956,4 +1956,11 @@ textarea {
   /* position: absolute; */
   font-style: italic;
   font-size: 25px;
+}
+#projects {
+  background: url("/assets/img/Digital\ Advertising\ Approach.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding: 130px 0px;
 }
