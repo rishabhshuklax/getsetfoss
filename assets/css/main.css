@@ -1959,9 +1959,10 @@ textarea {
 }
 #projects {
   background: url("/assets/img/Purple\ and\ Peach\ Baker\ Business\ Presentation.png");
-  background-position: cover;
+  background-size: cover;
   padding: 250px 0px;
   color: white !important;
+  background-position: center;
 }
 #projects h1,
 #projects h2,
