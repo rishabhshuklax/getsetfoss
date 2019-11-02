@@ -1,0 +1,11 @@
+{
+  "participants": [
+    {
+      "name": "Your Name",
+      "email": "Your email",
+      "profilePicture": "URL",
+      "facebookLink": "URL",
+      "githubLink": "URL"
+    }
+  ]
+}
