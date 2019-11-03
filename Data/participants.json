@@ -1,11 +1,17 @@
 {
   "participants": [
     {
-      "name": "Your Name",
-      "email": "Your email",
-      "profilePicture": "URL",
-      "facebookLink": "URL",
-      "githubLink": "URL"
+      
+      
+      
+      "name": "Hritwik Tripathi",
+      "email": "lit2019012@iiitl.ac.in",
+      "profilePicture": "https://www.facebook.com/photo.php?fbid=1624134371059832&set=a.104599009680050&type=3&source=11&referrer_profile_id=100003898532396",
+      "facebookLink": "https://www.facebook.com/hritwik.tripathi",
+      "githubLink": "https://github.com/Escavalier"
+      
+      
+      
     }
   ]
 }
