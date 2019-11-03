@@ -1,11 +1,11 @@
 {
   "participants": [
     {
-      "name": "Your Name",
-      "email": "Your email",
-      "profilePicture": "URL",
-      "facebookLink": "URL",
-      "githubLink": "URL"
+      "name": "Roopam Jain",
+      "email": "roopam.ams@gmail.com",
+      "profilePicture": "https://avatars1.githubusercontent.com/u/56092166?s=40&v=4",
+      "facebookLink": "https://www.facebook.com/roopam.jain.180",
+      "githubLink": "https://github.com/RoopamJain00"
     }
   ]
 }
