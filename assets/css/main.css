@@ -1953,21 +1953,8 @@ textarea {
 }
 
 #rules span {
-  /* position: absolute; */
   font-style: italic;
   font-size: 25px;
-}
-#projects {
-  background: url("/assets/img/Purple\ and\ Peach\ Baker\ Business\ Presentation.png");
-  background-size: cover;
-  padding: 250px 0px;
-  color: white !important;
-  background-position: center;
-}
-#projects h1,
-#projects h2,
-#projects .btn {
-  color: white !important;
 }
 #about ul,
 #about li {
@@ -1975,4 +1962,25 @@ textarea {
 }
 #about ul {
   padding-left: 40px;
+}
+.prizes-row {
+  display: flex;
+  justify-content: space-around;
+}
+.prizes-row .card {
+  padding: 25px;
+  display: flex;
+  align-items: space-between;
+  box-shadow: rgba(0, 0, 0, 0.2) 1px 8px 20px 0px;
+  border: none;
+  margin-top: 30px;
+  margin-right: 30px;
+  background: transparent;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.prizes-row .card-body {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
 }
