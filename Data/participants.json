@@ -1,3 +1,4 @@
+
 {
   "participants": [
     {
@@ -41,6 +42,20 @@
       "profilePicture": "https://avatars1.githubusercontent.com/u/56092166?s=40&v=4",
       "facebookLink": "https://www.facebook.com/roopam.jain.180",
       "githubLink": "https://github.com/RoopamJain00"
+    },
+    {
+     "name": "Satyam Kumar Pathak",
+      "email":"psatyam3006@gmail.com",
+      "profilePicture":"https://avatars1.githubusercontent.com/u/56070883?s=400&v=4",
+      "facebookLink":"https://www.facebook.com/satyam.kumarpathak.14",
+      "githubLink":"https://github.com/satyampathak223"
+    },
+    {
+     "name": "Nipun Topno",
+     "email":"nipuntopno77@gmail.com",
+     "profilePicture":"https://avatars0.githubusercontent.com/u/54640890?s=460&v=4",
+     "facebookLink":"https://www.facebook.com/nipun.topno.9",
+     "githubLink":"https://github.com/pigmeister"
     }
   ]
 }
