@@ -673,7 +673,7 @@ hr {
 }
 
 #hero-area .contents {
-  padding: 170px 0px 0px;
+  padding: 100px 0px 0px;
 }
 
 #hero-area .contents .head-title {
@@ -682,7 +682,7 @@ hr {
   font-size: 40px;
   line-height: 48px;
   font-weight: 700;
-  margin-bottom: 30px;
+  margin-bottom: 1px;
 }
 
 /* Team Item */
