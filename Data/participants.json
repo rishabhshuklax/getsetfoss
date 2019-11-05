@@ -15,6 +15,13 @@
       "githubLink": "https://github.com/harshitg00"
     },
     {
+      "name": "RISHABH D TIWARI",
+      "email": "lcs2019032@iiitl.ac.in",
+      "profilePicture": "https://avatars0.githubusercontent.com/u/57325543?s=460&v=4",
+      "facebookLink": "https://www.facebook.com/rdtiwari.social",
+      "githubLink": "https://github.com/nawab-shah"
+    },
+    {
       "name": "Yogesh Kumar",
       "email": "lcs2019056@iiitl.ac.in",
       "profilePicture": "https://avatars1.githubusercontent.com/u/54735451?s=400&v=4",
@@ -22,11 +29,27 @@
       "githubLink": "https://github.com/yk1ax"
     },
     {
+
       "name": "Riya Srivastava",
       "email": "lcs2019033@iiitl.ac.in",
       "profilePicture": "https://avatars1.githubusercontent.com/2110riya",
       "facebookLink": "https://www.facebook.com/riya.srivastava2110",
       "githubLink": "https://github.com/2110riya"
+    },
+    {
+    "name": "Ashutosh Yadav",
+    "email":"yadavashu4488@gmail.com",
+     "profilePicture":"https://avatars0.githubusercontent.com/u/55954955?s=460&v=4",
+     "facebookLink":"https://www.facebook.com/profile.php?id=100025977280583",
+     "githubLink":"https://github.com/yadavashu"
+    },
+    {
+      "name": "Roopam Jain",
+      "email": "roopam.ams@gmail.com",
+      "profilePicture": "https://avatars1.githubusercontent.com/u/56092166?s=40&v=4",
+      "facebookLink": "https://www.facebook.com/roopam.jain.180",
+      "githubLink": "https://github.com/RoopamJain00"
+
     }
   ]
 }
