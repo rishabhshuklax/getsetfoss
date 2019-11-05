@@ -1,11 +1,11 @@
 {
-  "participants": [
-    {
+    "participants": [
+        {
       "name": "Amit meena",
       "email": "meenalko24@gmail.com",
       "profilePicture": "https://avatars0.githubusercontent.com/u/56061943?s=400&u=afd34e94b98bf2e3755835dde859ca7acf59a87c&v=4",
       "facebookLink": "https://www.facebook.com/amit.rock.79025",
       "githubLink": "https://github.com/amitmeena24"
-    }
-  ]
-}
+        }
+  	  ]
+	}
