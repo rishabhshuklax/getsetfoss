@@ -125,6 +125,14 @@
       "facebookLink": "https://www.facebook.com/profile.php?id=100011560608600",
       "githubLink": "https://github.com/Mohit9487"
 
-    },  
+    }, 
+    {
+      "name": "Shweta Singh",
+      "email": "lcs2019005@iiitl.ac.in",
+      "profilePicture": "https://avatars0.githubusercontent.com/u/57324656?s=400&v=4",
+      "facebookLink": "https://www.facebook.com/profile.php?id=100040225356823",
+      "githubLink": "https://github.com/settings/profile"
+
+    }
   ]
 }
