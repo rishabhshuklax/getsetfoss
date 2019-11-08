@@ -29,6 +29,13 @@
       "githubLink": "https://github.com/yk1ax"
     },
     {
+    "name": "Anika Agarwal",
+      "email": "lcs2019004@iiitl.ac.in",
+      "profilePicture": "https://avatars2.githubusercontent.com/u/56070541?s=460&v=4",
+      "facebookLink": "https://www.facebook.com/anika.agarwal.737448",
+      "githubLink": "https://github.com/Anikaagarwal10"
+    },
+    {
 
       "name": "Riya Srivastava",
       "email": "lcs2019033@iiitl.ac.in",
@@ -56,9 +63,6 @@
       "profilePicture": "https://avatars1.githubusercontent.com/u/56092166?s=40&v=4",
       "facebookLink": "https://www.facebook.com/roopam.jain.180",
       "githubLink": "https://github.com/RoopamJain00"
-
-
-
     },
     {
      "name": "Satyam Kumar Pathak",
@@ -87,7 +91,6 @@
       "profilePicture": "https://avatars.githubusercontent.com/lav-joshi",
       "facebookLink": "https://www.facebook.com/lav.joshi.923",
       "githubLink": "https://github.com/lav-joshi"
-
     },  
     {
       "name": "Harshdeep",
@@ -125,6 +128,6 @@
       "facebookLink": "https://www.facebook.com/profile.php?id=100011560608600",
       "githubLink": "https://github.com/Mohit9487"
 
-    },  
+    }
   ]
 }
