@@ -1086,30 +1086,6 @@ hr {
 }
 
 /* ==========================================================================
-   Mentors Section
-   ========================================================================== */
-
-  
-
-  #mentor-name{
-    font-size: 3vh;
-    padding: 2vh;
-  }
-
-  #mentor-links{
-    color: black;
-    font-size: 3vh;
-    padding: 0.4vh;
-    margin: auto;
-  }
-
-  .prizes-row #mentor-img:hover {
-    margin-top: -1vw;
-    margin-bottom: 1vw;
-    transition: 0.5s ease-in-out;
-  }
-
-/* ==========================================================================
    Pricing Table Style
    ========================================================================== */
 #pricing {
