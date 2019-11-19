@@ -129,6 +129,7 @@ a:not([href]):not([tabindex]) {
   position: relative;
   z-index: 1;
   text-transform: uppercase;
+  margin: 1vw;
 }
 
 .btn-common:hover {
