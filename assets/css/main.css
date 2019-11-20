@@ -1110,6 +1110,72 @@ hr {
     transition: 0.5s ease-in-out;
   }
 
+/* ==========================================================================
+   Participants Section
+   ========================================================================== */
+
+   .card#participants{
+    padding: 1vw;
+    margin: 3vw;
+    background: rgba(250, 235, 215, 0.5);
+    overflow: hidden;
+  }
+
+  .link-layer{
+    background-color: rgba(72, 81, 110, 0.4);
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding: 1vw;
+  }
+
+  .link-layer .table-layer{
+    display: table;
+    height: 100%;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+  }
+
+  .link-layer .table-layer .cell-layer{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+  }
+
+  .link-layer:hover{
+    opacity: 1;
+  }
+
+  .card#participants:hover img {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    
+    transition: all 0.6s ease;
+    -moz-transition: all 0.6s ease;
+    -webkit-transition: all 0.6s ease;
+  }
+
+  .participants-name{
+    margin-top: 0.5vw;
+    color: rgb(0, 253, 219);
+  }
+
+  .participants-links{
+    color: rgba(31, 243, 215, 0.75);
+    font-size: 2.5vw;
+    padding: 0.6vw;
+  }
+
+  a#participant-githublink:hover{
+    color: black;
+  }
 
 /* ==========================================================================
    Pricing Table Style
