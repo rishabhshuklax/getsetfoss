@@ -144,3 +144,22 @@
   });      
 
 }(jQuery));
+
+/* ==========================================================================
+   Mentors Section
+   ========================================================================== */
+
+   $.getJSON("./Data/mentors.json", (data) => {
+    var mentor = data.mentors.map((v, i) => {
+      return `<div class="card" style="width:400px">
+        <img id="mentor-img" src="${v.profilePicture}" alt="${v.name}"
+          style="width:100%" />
+        <b class="mentor-name">${v.name}</b>
+        <span>
+          <a href="${v.facebookLink}" class="mentor-links"><i class="lni-facebook-filled"></i></a>
+          <a href="${v.githubLink}" class="mentor-links"><i class="lni-github-original"></i></a>
+        </span>
+      </div>`
+    })
+    $("#mentors-cards").html(mentor);
+  })

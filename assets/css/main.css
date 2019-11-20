@@ -1092,12 +1092,12 @@ hr {
 
   
 
-  #mentor-name{
+  .mentor-name{
     font-size: 3vh;
     padding: 2vh;
   }
 
-  #mentor-links{
+  .mentor-links{
     color: black;
     font-size: 3vh;
     padding: 0.4vh;
@@ -1109,6 +1109,7 @@ hr {
     margin-bottom: 1vw;
     transition: 0.5s ease-in-out;
   }
+
 
 /* ==========================================================================
    Pricing Table Style
