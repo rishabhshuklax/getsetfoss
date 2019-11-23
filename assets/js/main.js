@@ -163,3 +163,30 @@
     })
     $("#mentors-cards").html(mentor);
   })
+
+  /* ==========================================================================
+   Participants Section
+   ========================================================================== */
+
+   $.getJSON("./Data/participants.json",(data) => {
+     var participants = data.participants.map((v,i) => {
+       return `<div class="card" id="participants" style="width:200px">
+       <img id="participants-img" src="${v.profilePicture}" alt="${v.name}"
+         style="width:100%" />
+
+       <div class="link-layer">
+         <div class="table-layer">
+           <div class="cell-layer">
+             <span>
+               <a href="${v.facebookLink}" class="participants-links"><i class="lni-facebook-filled"></i></a>
+               <a href="${v.githubLink}" class="participants-links" id="participant-githublink"><i class="lni-github-original"></i></a>
+             </span>
+           </div>
+         </div>
+       </div>
+
+       <b class="participants-name">${v.name}</b>
+     </div>`
+     })
+     $("#participants-section").html(participants);
+   })
