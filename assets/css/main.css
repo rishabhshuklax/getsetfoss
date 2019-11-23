@@ -1117,12 +1117,12 @@ hr {
    .card#participants{
     padding: 1vw;
     margin: 3vw;
-    background: rgba(250, 235, 215, 0.5);
+    background: rgba(255, 255, 255, 0.979);
     overflow: hidden;
   }
 
   .link-layer{
-    background-color: rgba(72, 81, 110, 0.4);
+    background-color: rgba(0, 0, 0, 0.514);
     height: 100%;
     left: 0;
     opacity: 0;
@@ -1164,11 +1164,11 @@ hr {
 
   .participants-name{
     margin-top: 0.5vw;
-    color: rgb(0, 253, 219);
+    color: rgb(21, 53, 23);
   }
 
   .participants-links{
-    color: rgba(31, 243, 215, 0.75);
+    color: rgba(255, 255, 255, 0.589);
     font-size: 2.5vw;
     padding: 0.6vw;
   }

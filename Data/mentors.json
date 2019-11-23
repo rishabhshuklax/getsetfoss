@@ -1,11 +1,32 @@
 {
-    "mentors": [
-      {
-        "name": "Divy Khare",
-        "email": "lit2017001@iiitl.ac.in",
-        "profilePicture": "https://avatars3.githubusercontent.com/u/31225007?s=400&v=4",
-        "facebookLink": "#",
-        "githubLink": "https://github.com/divy123"
-      }
-    ]
-  }
+  "mentors": [
+    {
+      "name": "Divy Khare",
+      "email": "lit2017001@iiitl.ac.in",
+      "profilePicture": "https://avatars3.githubusercontent.com/u/31225007?s=400&v=4",
+      "facebookLink": "#",
+      "githubLink": "https://github.com/divy123"
+    },
+    {
+      "name": "Vaibhav Gupta",
+      "email": "lit2017006@iiitl.ac.in",
+      "profilePicture": "https://avatars2.githubusercontent.com/u/29149191?s=400&v=4",
+      "facebookLink": "#",
+      "githubLink": "https://github.com/dojutsu-user/"
+    },
+    {
+      "name": "Govind Dixit",
+      "email": "lit2017018@iiitl.ac.in",
+      "profilePicture": "https://avatars1.githubusercontent.com/u/32304546?s=400&v=4",
+      "facebookLink": "#",
+      "githubLink": "https://github.com/GOVINDDIXIT/"
+    },
+    {
+      "name": "Hidayat Khan",
+      "email": "lit2017029@iiitl.ac.in",
+      "profilePicture": "https://avatars1.githubusercontent.com/u/27916352?s=400&v=4",
+      "facebookLink": "#",
+      "githubLink": "https://github.com/masterchef2209/"
+    }
+  ]
+}
