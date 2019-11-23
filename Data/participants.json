@@ -29,6 +29,19 @@
       "githubLink": "https://github.com/yk1ax"
     },
     {
+      "name": "Niharika Kabra",
+      "email": "lit2019053@iiitl.ac.in",
+      "profilePicture": "https://avatars.githubusercontent.com/feyre-2001",
+      "facebookLink": "https://www.facebook.com/niharika.kabra.37",
+      "githubLink": "https://github.com/feyre-2001"
+    },
+    "name": "Anika Agarwal",
+      "email": "lcs2019004@iiitl.ac.in",
+      "profilePicture": "https://avatars2.githubusercontent.com/u/56070541?s=460&v=4",
+      "facebookLink": "https://www.facebook.com/anika.agarwal.737448",
+      "githubLink": "https://github.com/Anikaagarwal10"
+    },
+    {
 
       "name": "Riya Srivastava",
       "email": "lcs2019033@iiitl.ac.in",
@@ -43,6 +56,13 @@
      "facebookLink":"https://www.facebook.com/profile.php?id=100025977280583",
      "githubLink":"https://github.com/yadavashu"
     },
+    {      
+    "name": "Sachin Kumar Yadav",
+      "email": "lit2019027@iiitl.ac.in",
+      "profilePicture": "https://avatars1.githubusercontent.com/u/56162613?s=460&v=4",
+      "facebookLink": "https://www.facebook.com/profile.php?id=100011951058531",
+      "githubLink": "https://github.com/sachin746"
+    },
     {
       "name": "Nishan Singh",
       "email": "lit2019074@iiitl.ac.in",
@@ -56,9 +76,6 @@
       "profilePicture": "https://avatars1.githubusercontent.com/u/56092166?s=40&v=4",
       "facebookLink": "https://www.facebook.com/roopam.jain.180",
       "githubLink": "https://github.com/RoopamJain00"
-
-
-
     },
     {
      "name": "Satyam Kumar Pathak",
@@ -87,14 +104,20 @@
       "profilePicture": "https://avatars.githubusercontent.com/lav-joshi",
       "facebookLink": "https://www.facebook.com/lav.joshi.923",
       "githubLink": "https://github.com/lav-joshi"
-
-    },  
+    },
     {
       "name": "Harshdeep",
       "email": "mottanharshdeep@gmail.com",
       "profilePicture": "https://avatars0.githubusercontent.com/u/55805028?s=460&v=4",
       "facebookLink": "https://www.facebook.com/profile.php?id=100010115341689",
       "githubLink": "https://github.com/blank-27"
+    },
+    {
+      "name": "Yugraj singh kanojia",
+      "email": "lit2019@iiitl.ac.in",
+      "profilePicture": "https://wallpaper.mascuk.com/thumbnail/300/gallery/ANd9GcSvCLIaegryQSp6ZL_2SI7o40iAELYjMElXOKRYPYQ2Rk1r6_eoiw.jpg",
+      "facebookLink": "https://www.facebook.com/yugraj.singh.3720",
+      "githubLink": "https://github.com/yugraj124"
     },
     {
       "name": "R0hit Choudhary",
@@ -131,7 +154,27 @@
       "profilePicture": "https://avatars3.githubusercontent.com/u/56410386?s=400&u=71106ed981e0f59fcd06c64c2541abd83194cdd8&v=4",
       "facebookLink": "https://www.facebook.com/hellrider99",
       "githubLink": "https://github.com/hellrider9"
+    },   
+    {
+      "name": "Vinamr Bajaj",
+      "email": "lit2019023@iiitl.ac.in",
+      "profilePicture": "https://www.facebook.com/photo.php?fbid=386832911776344&set=a.109104962882475&type=3&theater",
+      "facebookLink": "https://www.facebook.com/bajajvinamr",
+      "githubLink": "https://github.com/bajajvinamr"
+    },
+    {
+      "name": "Nirmal Nambiar",
+      "email": "lcs2019048@iiitl.ac.in",
+      "profilePicture": "https://avatars0.githubusercontent.com/u/55321052?s=460&v=4",
+      "facebookLink": "https://www.facebook.com/nirmal.nambiar.5855",
+      "githubLink": "https://github.com/nim-nambi"
+    },
+    {
+     "name": "Daivesh pandya",
+     "email":"daivesh000@gmail.com",
+     "profilePicture":"https://avatars3.githubusercontent.com/u/57327756?s=460&v=4",
+     "facebookLink":"https://www.facebook.com/daivesh.pandya.3",
+     "githubLink":"https://github.com/gryffindor-001"
     }
-
   ]
 }
