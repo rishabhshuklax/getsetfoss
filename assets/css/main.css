@@ -129,6 +129,7 @@ a:not([href]):not([tabindex]) {
   position: relative;
   z-index: 1;
   text-transform: uppercase;
+  margin: 1vw;
 }
 
 .btn-common:hover {
@@ -1084,6 +1085,31 @@ hr {
 .shot-item:hover .single-content a {
   margin-bottom: 0;
 }
+
+/* ==========================================================================
+   Mentors Section
+   ========================================================================== */
+
+  
+
+  .mentor-name{
+    font-size: 3vh;
+    padding: 2vh;
+  }
+
+  .mentor-links{
+    color: black;
+    font-size: 3vh;
+    padding: 0.4vh;
+    margin: auto;
+  }
+
+  .prizes-row #mentor-img:hover {
+    margin-top: -1vw;
+    margin-bottom: 1vw;
+    transition: 0.5s ease-in-out;
+  }
+
 
 /* ==========================================================================
    Pricing Table Style
